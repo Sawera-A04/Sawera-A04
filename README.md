@@ -1,8 +1,6 @@
-- 👋 Hey there! I’m @Sawera-A04
-
-- 👀 I’m interested in Coding, Content Writing and Blogging.
-
-- 🌱 I’m currently ACCP / Software Engineering.
+- 👋 Hey everyone! My name is Sawera and I'm a Full Stack Developer. Programming, Blogging and Design analysis are 
+- some things that captures my interest. Recently I'm a final year ACCP student with a code writing routine from
+- almost 5 years. 
 
 - 💞️ My coding specialities include:
 
